@@ -1,1 +1,16 @@
+Tool:
+1) Confluence page  for Design approval
+      Decomposition
+      Communication
+      Data Management
+      Transaction Management
+      Deployment
+      Resilience
+
+2) Postman for showing transactional data
+3) Log file - Use Kibana, elasticserch, Logstash
+Architecture Design
+
+
+         - 
 
