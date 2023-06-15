@@ -1,5 +1,5 @@
-Tool:
-1) Confluence page  for Design approval
+Modular Monolith Architecrue :
+1) Confluence page  for Design approval (Problem,Learn,Design,Adapt,Evaluate)
       Decomposition
       Communication
       Data Management
@@ -7,9 +7,7 @@ Tool:
       Deployment
       Resilience
 
-2) Postman for showing transactional data
-3) Log file - Use Kibana, elasticserch, Logstash
-Architecture Design
+Decomposition
 
 
          - 
